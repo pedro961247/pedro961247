@@ -7,8 +7,8 @@ I started studying about it in 2021, but I am starting to create my GitHub in 20
 
 I even know a lot of programming languages.
 like:
-  Intermediate: Python, Lua.
-  Basic: C#, C++, javascript.
+- Intermediate: Python, Lua.
+- Basic: C#, C++, javascript.
 
 - Certificates:
 -   Codechef: C#.
