@@ -20,7 +20,28 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/postgreSQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+
+## Meus Principais Trabalhos
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://campo-facil.vercel.app/favicon.ico" width="25" alt="Logo do CampoFacil">
+    </td>
+    <td valign="middle">
+      <a href="https://campo-facil.vercel.app"><strong>CampoFacil</strong></a> — App completo de gestão empresarial
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="https://studiohcachos.vercel.app/favicon.ico" width="25" alt="Logo do StudioH">
+    </td>
+    <td valign="middle">
+      <a href="https://studiohcachos.vercel.app"><strong>StudioH</strong></a> — Barbearia, Salão e Cachos
+    </td>
+  </tr>
+</table>
 
 ## Principais Tecnologias
 
@@ -40,21 +61,12 @@
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
-  <img src="https://img.shields.io/badge/GGUF-000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/∑ Hard Mathematics-990000?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=arch-linux&logoColor=white">
 </p>
 
-## Estatísticas
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=zebedelu&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebedelu&layout=compact&theme=dark" height="170"/>
-</div>
-
-## Conexões
+## Contato
 <a href="mailto:viniciusppedro6@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -63,6 +75,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zebedelu&label=Visitantes&color=00D4FF&style=flat-square" alt="Visitor Counter"/>
-  
-  <p><em>"Código que resolve problemas reais."</em></p>
 </div>
