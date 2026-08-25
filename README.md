@@ -35,10 +35,10 @@
   </tr>
   <tr>
     <td valign="middle">
-      <img src="https://studiohcachos.vercel.app/favicon.ico" width="25" alt="Logo do StudioH">
+      <img src="https://studiohcachos.com.br/favicon.ico" width="25" alt="Logo do StudioH">
     </td>
     <td valign="middle">
-      <a href="https://studiohcachos.vercel.app"><strong>StudioH</strong></a> — Barbearia, Salão e Cachos
+      <a href="https://studiohcachos.com.br"><strong>StudioH</strong></a> — Barbearia, Salão e Cachos
     </td>
   </tr>
 </table>
