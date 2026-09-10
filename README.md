@@ -17,7 +17,7 @@
 * 🔬 **XV MIC / VI SEPE 2025** — participação na Mostra de Iniciação Científica do IFC Campus Concórdia
 * 🤖 **Robótica** — curso prático presencial com **36 horas de duração**
 
-## Meus Principais Trabalhos
+## Meus Principais Trabalhos de Sucesso
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
       <img src="https://studiohcachos.com.br/favicon.ico" width="25" alt="Logo do StudioH">
     </td>
     <td valign="middle">
-      <a href="https://studiohcachos.com.br"><strong>StudioH</strong></a> — Barbearia, Salão e Cachos
+      <a href="https://studiohcachos.com.br"><strong>StudioH</strong></a> — Site de uma barbearia famosa de Capinzal 
     </td>
   </tr>
 </table>
